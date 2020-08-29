@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64cb6e66-c180-44fe-8808-9aa7f5ff1529" name="Default Changelist" comment="">
+    <list default="true" id="64cb6e66-c180-44fe-8808-9aa7f5ff1529" name="Default Changelist" comment="add juputer notebooks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,27 @@
       <option name="presentableId" value="Default" />
       <updated>1598618788412</updated>
     </task>
+    <task id="LOCAL-00001" summary="tut1 and half of tut2 done">
+      <created>1598629532471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598629532471</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add juputer notebooks">
+      <created>1598629622704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598629622704</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tut1 and half of tut2 done" />
+    <MESSAGE value="add juputer notebooks" />
+    <option name="LAST_COMMIT_MESSAGE" value="add juputer notebooks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="758" y="444" key="Github.ShareDialog" timestamp="1598618832918">
@@ -47,9 +68,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="691" y="245" key="Github.UntrackedFilesDialog/260.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1598618840982" />
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1598618857596">
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1598629630682">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2/260.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1598618857596" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/260.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1598629630682" />
   </component>
 </project>
