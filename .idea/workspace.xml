@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64cb6e66-c180-44fe-8808-9aa7f5ff1529" name="Default Changelist" comment="tut3 done">
+    <list default="true" id="64cb6e66-c180-44fe-8808-9aa7f5ff1529" name="Default Changelist" comment="tut4 done">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/minwage-checkpoint.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/pandas_5-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/pandas_6-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diamonds.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_6.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pres16results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unemploymentUS.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598717905585</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tut4 done">
+      <created>1598890606776</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598890606776</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,7 +117,8 @@
     <MESSAGE value="add juputer notebooks" />
     <MESSAGE value="next dataset for tut3" />
     <MESSAGE value="tut3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="tut3 done" />
+    <MESSAGE value="tut4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="tut4 done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="758" y="444" key="Github.ShareDialog" timestamp="1598618832918">
