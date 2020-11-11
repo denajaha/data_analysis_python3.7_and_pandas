@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64cb6e66-c180-44fe-8808-9aa7f5ff1529" name="Default Changelist" comment="tut4 done">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/minwage-checkpoint.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/pandas_5-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/pandas_6-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diamonds.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_5.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_6.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pres16results.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unemploymentUS.csv" afterDir="false" />
+    <list default="true" id="64cb6e66-c180-44fe-8808-9aa7f5ff1529" name="Default Changelist" comment="whole tutorial done --&gt; now onto the ML playlist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598890606776</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="whole tutorial done --&gt; now onto the ML playlist">
+      <created>1599072824500</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599072824500</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,7 +117,8 @@
     <MESSAGE value="next dataset for tut3" />
     <MESSAGE value="tut3 done" />
     <MESSAGE value="tut4 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="tut4 done" />
+    <MESSAGE value="whole tutorial done --&gt; now onto the ML playlist" />
+    <option name="LAST_COMMIT_MESSAGE" value="whole tutorial done --&gt; now onto the ML playlist" />
   </component>
   <component name="WindowStateProjectService">
     <state x="758" y="444" key="Github.ShareDialog" timestamp="1598618832918">
@@ -129,9 +129,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="691" y="245" key="Github.UntrackedFilesDialog/260.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1598618840982" />
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1598717914086">
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1599072840257">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2/260.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1598717914086" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/260.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599072840257" />
   </component>
 </project>
